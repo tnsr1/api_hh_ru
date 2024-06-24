@@ -1,5 +1,5 @@
 # api_hh_ru
-Пример использования api.hh.ru по навыкам.
+Пример использования api.hh.ru по навыкам на VBA в Excel.
 Конвертер json взял здесь
 https://github.com/VBA-tools/VBA-JSON/archive/v2.3.1.zip
 Чтобы конвертер JSON работал:
